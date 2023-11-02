@@ -1,2 +1,2 @@
-# logistica
-End to end - Machine Learning: Previsão do tipo de produto dentro da embalagem 
+# Amazon Brazil Products 2023
+End to end - Machine Learning: Previsão do valor de produto 
